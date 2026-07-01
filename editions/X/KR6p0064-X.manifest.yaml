@@ -1,0 +1,78 @@
+canonical_identifier: bkk:krp/KR6p0064/X/v1
+canonical_location: https://kanripo.org/bkk/KR6p0064/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 西方願文
+  identifiers:
+    krp: KR6p0064
+    cbeta: X61n1160
+    cbeta_old_id: X61n1160
+    authorityid: CA0003516
+    json_key: X1160
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X61/X61n1160.xml
+    old_id: X61n1160
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6p0064_000-X.yaml, hash: 'sha256:a02121441a8d76a67160dfb4d5c4980fa8169290772fc2090cab22c552a2605a'}
+  - {seq: 1, filename: KR6p0064_001-X.yaml, hash: 'sha256:2226158957a1682afab0f5c99a23aadaa9837800dc01d8afe0bcb26314437b3b'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6p0064_000-X.markers.yaml, hash: 'sha256:43f79bb15ea40d1be76a4e615d03a6ec96b1d9ccd7993fce753e02571ce46ba9'}
+  - {seq: 1, role: markers, filename: assets/KR6p0064_001-X.markers.yaml, hash: 'sha256:46564ebd581bf848935cc44e349b2104eba756bb0a2d0b2500114e5c94412c55'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6p0064_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 1160-A 西方願文科
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0064_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 2437
+  label: 西方願文解
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0064_X_001-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 西方願文解
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0064_X_001-mulu-2
+    span:
+    - body
+    - 2141
+    - 2141
+  label: No. 1160-B 原刻西方願文䟦
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0064_X_001-mulu-3
+    span:
+    - body
+    - 2310
+    - 2310
+  label: 雲棲大師像贊附
+  type: mulu
+  level: 1
+hash: sha256:128f37f1fb74cd8ec86dd5cd16d53d931299200e3144cec35cda29b15567351a

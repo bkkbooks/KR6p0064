@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6p0064/x/v1/juan/0
+seq: 0
+front:
+  text: 西方願文科大文分二初總序歸敬二正述願文初總序歸敬三初標主二明願三請加二正述願文三初求生西方正因二得生西方明驗三已生淨土大用初求生西方正因五初發起大心二懺悔業障三立願自要四求佛冥加五淨業成就二得生西方明驗三初臨終正念二感佛來迎三往生極樂三已生淨土大用四初見佛得記二蒙記具德三成德利生四普皆回向
+  hash: sha256:e23e898df97bbcaf71e8e20905912b16f854bb2a70c2d8d7acbc52ca0f673acc
+  markers:
+  - {type: 序, offset: 0, content: No. 1160-A 西方願文科, id: KR6p0064_X_000-mulu-1, level: '1'}
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 西方願文
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X61/X61n1160.xml
+    old_id: X61n1160
+hash: sha256:a02121441a8d76a67160dfb4d5c4980fa8169290772fc2090cab22c552a2605a
