@@ -19,17 +19,17 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6p0064_000-X.yaml, hash: 'sha256:a02121441a8d76a67160dfb4d5c4980fa8169290772fc2090cab22c552a2605a'}
+  - {seq: 0, filename: KR6p0064_000-X.yaml, hash: 'sha256:657cf47ab3ece8b6798fa420837135c802b530672632350cd67c74328049d107'}
   - {seq: 1, filename: KR6p0064_001-X.yaml, hash: 'sha256:2226158957a1682afab0f5c99a23aadaa9837800dc01d8afe0bcb26314437b3b'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6p0064_000-X.markers.yaml, hash: 'sha256:43f79bb15ea40d1be76a4e615d03a6ec96b1d9ccd7993fce753e02571ce46ba9'}
+  - {seq: 0, role: markers, filename: assets/KR6p0064_000-X.markers.yaml, hash: 'sha256:f582d0cb4c4f0107f31a40c11753ad5b1426b0b257748f158ac9c661c09cbd6c'}
   - {seq: 1, role: markers, filename: assets/KR6p0064_001-X.markers.yaml, hash: 'sha256:46564ebd581bf848935cc44e349b2104eba756bb0a2d0b2500114e5c94412c55'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6p0064_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1160-A 西方願文科
@@ -75,4 +75,4 @@ table_of_contents:
   label: 雲棲大師像贊附
   type: mulu
   level: 1
-hash: sha256:128f37f1fb74cd8ec86dd5cd16d53d931299200e3144cec35cda29b15567351a
+hash: sha256:69697ea4659f4ede9a09050f9af7789b474aaf79d5d298c88f3e0d2de51149db
